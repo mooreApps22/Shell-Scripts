@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This is a shell script which you can use to make X-number of numbered directories with a common name. 
+# For Example: ex00 ex01 ex02 ex03 ...
+
 # Check if enough arguments are provided
 if [ "$#" -ne 2 ]; then
   echo "Parameters: $0 <names> <number of directories>"
