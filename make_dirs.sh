@@ -2,7 +2,7 @@
 
 # This is a shell script which you can use to make X-number of numbered directories with a common name. 
 # For Example: ex00 ex01 ex02 ex03 ...
-# When you before you use the script make sure you give it executable permission with the command 'chmod +x make_dirs.sh'
+# Before you use the script make sure you give it executable permission with the command 'chmod +x make_dirs.sh'
 
 # Check if enough arguments are provided
 if [ "$#" -ne 2 ]; then
